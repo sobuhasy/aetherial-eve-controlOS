@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Security and Vaults
+.env
+vtube_token.txt
+
+# Compiled output
+dist/
+build/
